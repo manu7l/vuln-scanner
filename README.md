@@ -42,7 +42,7 @@ Manu – @manu7l
 git clone https://github.com/manu7l/vuln-scanner.git
 cd vuln-scanner
 chmod +x vuln_scanner.py
-'''
+
 
 
 
