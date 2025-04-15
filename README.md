@@ -39,7 +39,7 @@ Manu – @manu7l
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/vuln-scanner.git
+git clone https://github.com/manu7l/vuln-scanner.git
 cd vuln-scanner
 chmod +x vuln_scanner.py
 '''
