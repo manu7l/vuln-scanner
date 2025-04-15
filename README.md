@@ -14,7 +14,7 @@ Un escáner simple pero potente de puertos y servicios hecho en Python3. Ideal p
 - Python 3.x
 - Sistema Linux o Mac (aunque funciona en Windows con terminal compatible)
 
-## ⚙️ OPCIONES
+## ⚙️ Opciones
 
 Opción | Descripción        | Default
 
@@ -24,11 +24,11 @@ Opción | Descripción        | Default
 -to    | Timeout por puerto | 1
 
 
-## 🚨 USO DE LAS OPCIONES 
+## 🚨 Uso de las opciones 
 python3 vuln_scanner.py scanme.nmap.org -t 100 -to 2
 
 
-## 🌐 MODO DE EMPLEO
+## 🌐 Modo de empleo
 python3 vuln_scanner.py <IP o dominio> [opciones]
 
 
